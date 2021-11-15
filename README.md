@@ -16,6 +16,6 @@ Issues:
 
 
 Example hypocycloids and their parameters:
-!(https://user-images.githubusercontent.com/92796525/141858723-8cec5e18-24e0-4e5b-aeed-9076a9f680e1.png)
+! [] (https://user-images.githubusercontent.com/92796525/141858723-8cec5e18-24e0-4e5b-aeed-9076a9f680e1.png)
 
 Experimenting with overlaying and colours:
